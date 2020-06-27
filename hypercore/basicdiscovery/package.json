@@ -1,0 +1,11 @@
+{
+  "name": "kappa-workshop",
+  "description": "P2P collaboration workshop",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "hypercore": "^8.3.0",
+    "hyperswarm": "^2.14.0",
+    "pump": "^3.0.0"
+  }
+}
